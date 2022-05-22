@@ -1,0 +1,17 @@
+table{
+  width: 600px;
+  height: 400px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th, td{
+  border: 1.5px solid darkgreen;
+
+}
+
+#table-title, #table-subtitle{
+  background-color: seagreen;
+  color: white;
+  font-weight: bold;
+}
